@@ -1,1 +1,12 @@
-# Springboot struts with multiple modules with gradle
+# Springboot structure with multiple modules with gradle
+
+这个工程里面，只有sp-web是spring-boot的，其他的sp-db、sp-util是Java SE类型的支持模块。
+
+参考文章：http://blog.csdn.net/kcp606/article/details/72934517
+
+执行 gradle build 之后，生成：
+        sp-web-0.0.1-SNAPSHOT.war 和 
+        sp-web-0.0.1-SNAPSHOT.jar（可通过java -jar xxx.jar执行） 两个文件。
+
+
+
