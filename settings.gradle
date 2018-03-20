@@ -1,0 +1,6 @@
+rootProject.name = 'solution-platform'
+include 'sp-web'
+include 'sp-util'
+include 'sp-db'
+//include 'sp-node-server'
+

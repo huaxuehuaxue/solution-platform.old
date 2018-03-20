@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solution-platform.iml" filepath="$PROJECT_DIR$/.idea/modules/solution-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solution-platform_main.iml" filepath="$PROJECT_DIR$/.idea/modules/solution-platform_main.iml" group="solution-platform" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solution-platform_test.iml" filepath="$PROJECT_DIR$/.idea/modules/solution-platform_test.iml" group="solution-platform" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sp-db.iml" filepath="$PROJECT_DIR$/.idea/modules/sp-db.iml" group="sp-db" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sp-db/sp-db_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sp-db/sp-db_main.iml" group="sp-db" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sp-db/sp-db_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sp-db/sp-db_test.iml" group="sp-db" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sp-util.iml" filepath="$PROJECT_DIR$/.idea/modules/sp-util.iml" group="sp-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sp-util/sp-util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sp-util/sp-util_main.iml" group="sp-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sp-util/sp-util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sp-util/sp-util_test.iml" group="sp-util" />
+      <module fileurl="file://$PROJECT_DIR$/sp-web/sp-web.iml" filepath="$PROJECT_DIR$/sp-web/sp-web.iml" group="sp-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sp-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sp-web_main.iml" group="sp-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sp-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sp-web_test.iml" group="sp-web" />
+    </modules>
+  </component>
+</project>
